@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 Đây là dự án sử dụng **ESP32**, **RFID RC522** và **Google Sheets API** để xây dựng hệ thống điểm danh sinh viên tự động.
-[Video Demo]()
+[Video Demo](https://youtu.be/OQ0Rh2ILLfk?si=pBxmc4a9zhQPHQav)
 ![Image](https://github.com/user-attachments/assets/ae2872ec-c935-4463-be16-a7300f4cbb5e)
 ## Chức năng chính
 - Quét thẻ RFID để nhận diện sinh viên.
